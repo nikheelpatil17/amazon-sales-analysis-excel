@@ -110,5 +110,4 @@ amazon-sales-analysis-excel/
 │
 ├── Amazon_Sales_Dashboard.xlsx
 │
-└── images/
-    └── amazon-sales-dashboard.png
+└── Dashboard_Image.png
